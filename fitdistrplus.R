@@ -31,5 +31,10 @@ cdfcomp(distfits, legendtext = distlegend)
 ppcomp(distfits, legendtext = distlegend)
 
 
+gofstat(distfits, fitnames = distlegend)
+
+
+
+
 
 
